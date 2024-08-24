@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Dipayan70/Dipayan70/blob/main/software-engine_64888344.png)
 <h1 align="center">Hi 👋, I'm Dipayan Ghara</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
