@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/check out dipayan (@dipayan645756): https://x.com/dipayan645756?t=myleqaj7jcfawn6hca6klg&s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/dipayan645756?t=myleqaj7jcfawn6hca6klg&s=08](https://x.com/Dipayan645756?t=MYleQAj7JcFAWN6HcA6klg&s=08" height="30" width="40" /></a>
+<a href="https://x.com/Dipayan645756?t=MYleQAj7JcFAWN6HcA6klg&s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/dipayan645756?t=myleqaj7jcfawn6hca6klg&s=08](https://x.com/Dipayan645756?t=MYleQAj7JcFAWN6HcA6klg&s=08" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/dipayan-ghara-149158325?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dipayan-ghara-149158325?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
 </p>
 
